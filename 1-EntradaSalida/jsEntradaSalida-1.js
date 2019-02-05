@@ -2,6 +2,6 @@
 function mostrar()
 {
 	alert("ok");
-	alert ("ok")
+	alert ("ok")//
 }
 
