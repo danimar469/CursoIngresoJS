@@ -3,7 +3,7 @@ y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
     var nombre
-    nombre = prompt ("david")
-    alert ("david")
+    nombre = prompt ("introducir nombre")
+    alert ("correcto")
 }
 
