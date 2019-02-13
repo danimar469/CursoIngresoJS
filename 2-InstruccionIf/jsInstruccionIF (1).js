@@ -4,6 +4,7 @@ function mostrar()
 
     var edad=15;
     var resultado;
+    edad=document.getElementById("edad").value
     resultado = "niña bonita"  
 
     if(edad ==15) {
