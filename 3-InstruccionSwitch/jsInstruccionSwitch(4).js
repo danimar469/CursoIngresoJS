@@ -13,14 +13,14 @@ switch (mesDelAño){
         case "Abril":
         case "Junio":
         case "Septiembre":  
-        case "nobiembre":   
+        case "Nobiembre":   
             alert("este mes tiene 30 o màs dìas");
             break;
         case "Enero":
         case "Marzo": 
         case "Mayo":  
         case "Julio":
-        case "agosto":    
+        case "Agosto":    
         case "Octubre":
         case "Diciembre":
             alert("este mes tiene 31 o màs dìas");
